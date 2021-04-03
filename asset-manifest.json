@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-project-fotnite-trainee/static/css/main.7928a344.chunk.css",
+    "main.js": "/react-project-fotnite-trainee/static/js/main.4638c9e8.chunk.js",
+    "main.js.map": "/react-project-fotnite-trainee/static/js/main.4638c9e8.chunk.js.map",
+    "runtime-main.js": "/react-project-fotnite-trainee/static/js/runtime-main.a0cdd847.js",
+    "runtime-main.js.map": "/react-project-fotnite-trainee/static/js/runtime-main.a0cdd847.js.map",
+    "static/js/2.4247330c.chunk.js": "/react-project-fotnite-trainee/static/js/2.4247330c.chunk.js",
+    "static/js/2.4247330c.chunk.js.map": "/react-project-fotnite-trainee/static/js/2.4247330c.chunk.js.map",
+    "index.html": "/react-project-fotnite-trainee/index.html",
+    "static/css/main.7928a344.chunk.css.map": "/react-project-fotnite-trainee/static/css/main.7928a344.chunk.css.map",
+    "static/js/2.4247330c.chunk.js.LICENSE.txt": "/react-project-fotnite-trainee/static/js/2.4247330c.chunk.js.LICENSE.txt",
+    "static/media/fortnite.629a9437.png": "/react-project-fotnite-trainee/static/media/fortnite.629a9437.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0cdd847.js",
+    "static/js/2.4247330c.chunk.js",
+    "static/css/main.7928a344.chunk.css",
+    "static/js/main.4638c9e8.chunk.js"
+  ]
+}
